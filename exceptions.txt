@@ -132,4 +132,5 @@
 76119: 'NOVA', 'PBS NOVA',
 161511: 'Shameless', 'Shameless US',
 72108: 'Navy CIS', 'NCIS',
-78250: 'Goofy & Max', 'Goofy und Max'
+78250: 'Goofy & Max', 'Goofy und Max',
+230961: 'Marsupilami (2009)', 'Marsupilami'
