@@ -135,3 +135,4 @@
 78250: 'Goofy & Max', 'Goofy und Max',
 230961: 'Marsupilami (2009)', 'Marsupilami',
 75477: 'Chip & Chap', 'Chip und Chap', 'Chip und Chap - Die Ritter des Rechts',
+161461: 'Rizzoli & Isles', 'Rizzoli and Isles', 'Rizzoli und Isles',
