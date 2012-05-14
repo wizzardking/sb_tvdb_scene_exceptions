@@ -170,4 +170,5 @@
 230961: 'Marsupilami (2009)', 'Marsupilami',
 75477: 'Chip & Chap', 'Chip und Chap', 'Chip und Chap - Die Ritter des Rechts',
 161461: 'Rizzoli & Isles', 'Rizzoli and Isles', 'Rizzoli und Isles',
-257564: 'Der XXL-Ostfriese', 'Der XXL Ostfriese'
+257564: 'Der XXL-Ostfriese', 'Der XXL Ostfriese',
+186911: 'Hyakka Ryouran: Samurai Girls', 'Samurai Girls (2010)', 'Samurai Girls'
