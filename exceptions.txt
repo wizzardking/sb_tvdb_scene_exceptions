@@ -174,3 +174,4 @@
 186911: 'Hyakka Ryouran: Samurai Girls', 'Samurai Girls (2010)', 'Samurai Girls',
 73762: 'Grey\'s Anatomy', 'Greys Anatomy',
 73388: 'MythBusters', 'MythBusters - Die Wissensjäger',
+28477: 'Ikkitousen Dragon Girls', 'Ikki Tousen', 'Ikki Tousen Dragon Girls',
