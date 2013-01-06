@@ -1,4 +1,4 @@
-72546: 'CSI',
+72546: 'CSI', 'CSI: Crime Scene Investigation', 'CSI Crime Scene Investigation', 'CSI – Las Vegas', 'CSI: Las Vegas', 'CSI: Den Tätern auf der Spur', 'CSI - Den Tätern auf der Spur', 'CSI Den Tätern auf der Spur',
 73696: 'CSI: New York',
 110381: 'Archer (2009)', 'Archer',
 83897: 'Life After People: The Series',
