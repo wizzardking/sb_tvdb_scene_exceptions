@@ -62,7 +62,7 @@
 97731: 'Tosh.0', 'Tosh 0',
 224981: 'PhoneShop', 'Phone Shop',
 76736: 'The Black Adder', 'BlackAdder',
-193501: 'XIII', 'XIII (2011)', 'XIII The Series (2011)',
+193501: 'XIII', 'XIII (2011)', 'XIII The Series (2011)', 'XIII Die Verschwoerung',
 77120: 'Aqua Teen Hunger Force', 'Aqua Unit Patrol Squad', 'Aqua Unit Patrol Squad 1',
 248618: 'The Amazing Race Australia', 'The Amazing Race AU',
 81559: 'The Biggest Loser Australia', 'The Biggest Loser AU',
