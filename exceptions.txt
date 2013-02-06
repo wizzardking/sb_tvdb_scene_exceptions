@@ -191,3 +191,4 @@
 79311: 'Angels in America', 'Engel in Amerika',
 237831: 'Veep', 'Veep - Die Vizepraesidentin',
 71635: 'Ein Kaefig voller Helden',
+242521: 'Dallas (2012)', 'Dallas 2012',
