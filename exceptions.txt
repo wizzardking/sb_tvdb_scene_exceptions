@@ -195,3 +195,4 @@
 258480: 'TRON: Der Aufstand', 'TRON Der Aufstand',
 262980: 'House of Cards 2013',
 148581: 'Strike Back', 'Strike Back Project Dawn', 'Strike Back 2011', 'Strike Back Vengeance',
+257939: 'Copper', 'Copper Justice is brutal',
